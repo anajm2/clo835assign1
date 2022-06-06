@@ -1,0 +1,7 @@
+#Terraform Files
+*.terraform
+*.terraform.*
+*.tfstate
+*.tfstate.*
+*.pub
+*-dev
