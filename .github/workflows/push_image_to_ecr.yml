@@ -1,7 +1,7 @@
 name: Deploy to ECR
 #Testing for deployments
 on: 
-  pull_request:
+  push:
     branches: [ main ]
 
 jobs:
