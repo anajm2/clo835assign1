@@ -1,5 +1,5 @@
 name: Deploy to ECR
-#Testing for deploymentss
+#Testing for deployment
 on: 
   pull_request:
     branches: [ main ]
