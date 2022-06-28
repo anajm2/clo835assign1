@@ -30,7 +30,7 @@ jobs:
       env:
         ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
         ECR_REPOSITORY: assignment1_cats
-        IMAGE_TAG: cats
+        IMAGE_TAG: billi
       run: |
         cd cats
         ls -ltra
